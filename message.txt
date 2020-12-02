@@ -1,1 +1,5 @@
 // hello A and B we talk together by this chat
+
+// A say hello
+
+hello B nice to work with you
